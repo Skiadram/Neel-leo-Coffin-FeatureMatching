@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Neel_leo.Coffin.FeatureMaching</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenCVSharp4.Extensions" Version="4.5.5.20211231" />
+    <PackageReference Include="OpenCVSharp4.runtime.win" Version="4.5.5.20211231" />
+  </ItemGroup>
+
+</Project>
